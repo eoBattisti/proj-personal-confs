@@ -1,1 +1,0 @@
-/home/battisti/.config/i3
